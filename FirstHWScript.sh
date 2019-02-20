@@ -10,7 +10,7 @@ path_to_dir=$(realpath $to_dir)
 # copy files into specified dir
 mkdir -p $to_dir
 while [ $# -gt 0 ]; do
-    find ~ -path "$path_to_dir" -prune -o -name "*.$1" -exec cp "{}" $to_dir --force --backup=numbered \; 2> /dev/null
+    find ~ -path "$path_to_dir" -prune -o -type f -name "*.$1" -exec cp "{}" $to_dir --force --backup=numbered \; 2> /dev/null
     shift
 done
 
