@@ -5,4 +5,4 @@
 
 
 ## Использование
-'./FirstHWScript.sh ./path/to/dest/folder archive_name.tar.gz [list of extensions sepaarated by space]'
+```./FirstHWScript.sh ./path/to/dest/folder archive_name.tar.gz [list of extensions sepaarated by space]```
