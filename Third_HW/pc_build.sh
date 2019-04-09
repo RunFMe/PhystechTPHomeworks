@@ -8,6 +8,7 @@ sudo apt-get install libgnutls-dev
 sudo apt-get install sendmail
 
 git clone https://github.com/akhtyamovpavel/PatternsCollection.git
+cp ./config.ini ./PatternsCollection/Decorator/cpp-source/configs/
 mkdir pc_build 
 cd pc_build
 
