@@ -1,3 +1,0 @@
-/home/runfme/Projects/PhystechTPHomeworks/Fifth_HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/runfme/Projects/PhystechTPHomeworks/Fifth_HW/cmake-build-debug/CMakeFiles/Fifth_HW.dir
-/home/runfme/Projects/PhystechTPHomeworks/Fifth_HW/cmake-build-debug/CMakeFiles/edit_cache.dir

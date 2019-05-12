@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Fifth_HW.dir/main.cpp.o  -o Fifth_HW 
